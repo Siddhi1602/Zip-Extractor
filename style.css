@@ -1,0 +1,22 @@
+button{
+    font-size: 30px;
+    background-color:bisque;
+    size: 50px;
+    border: 2px;
+    border-radius: 15px;
+    font-style: inherit ;
+    cursor: pointer;
+    padding: 30px 50px;
+    margin-top: 50px;
+}
+
+
+.button:active {
+    transform: translateY(4px);
+  }
+
+ /*#drop_zone {
+    border: 5px solid blue;
+    width:  200px;
+    height: 100px;
+  }*/
